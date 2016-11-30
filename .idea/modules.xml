@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FbReactionDemo.iml" filepath="$PROJECT_DIR$/FbReactionDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fbreaction/fbreaction.iml" filepath="$PROJECT_DIR$/fbreaction/fbreaction.iml" />
     </modules>
   </component>
 </project>

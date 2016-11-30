@@ -1,4 +1,4 @@
-package com.fbreactiondemo.reactions;
+package com.hkv.fbreaction.reactions;
 
 import android.animation.AnimatorSet;
 import android.animation.ValueAnimator;

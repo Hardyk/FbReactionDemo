@@ -1,4 +1,4 @@
-package com.fbreactiondemo.reactions;
+package com.hkv.fbreaction.reactions;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -7,7 +7,7 @@ import android.media.AudioManager;
 import android.media.SoundPool;
 import android.os.Build;
 
-import com.fbreactiondemo.R;
+import com.hkv.fbreaction.R;
 
 import java.util.HashMap;
 import java.util.Map;

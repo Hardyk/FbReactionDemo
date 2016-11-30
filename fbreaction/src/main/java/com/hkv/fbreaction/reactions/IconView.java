@@ -1,4 +1,4 @@
-package com.fbreactiondemo.reactions;
+package com.hkv.fbreaction.reactions;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -14,7 +14,7 @@ import android.support.annotation.ColorInt;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.fbreactiondemo.R;
+import com.hkv.fbreaction.R;
 
 
 /**

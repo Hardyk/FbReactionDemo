@@ -12,7 +12,7 @@
         android:text="React!" />
 
 
-    <com.fbreactiondemo.reactions.ReactionView
+    <com.hkv.fbreaction.reactions.ReactionView
         android:id="@+id/activity_main_reactView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
